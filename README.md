@@ -8,6 +8,7 @@ CI](https://github.com/pressly/goose/actions/workflows/ci.yaml/badge.svg)](https
 Reference](https://pkg.go.dev/badge/github.com/pressly/goose/v3.svg)](https://pkg.go.dev/github.com/pressly/goose/v3)
 [![Go Report
 Card](https://goreportcard.com/badge/github.com/pressly/goose/v3)](https://goreportcard.com/report/github.com/pressly/goose/v3)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPowerCoSE%2Fgoose.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPowerCoSE%2Fgoose?ref=badge_shield)
 
 Goose is a database migration tool. Both a CLI and a library.
 
@@ -498,3 +499,6 @@ Blog](https://go.dev/blog/gopher). Adapted by Ellen.
 ## License
 
 Licensed under [MIT License](./LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPowerCoSE%2Fgoose.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPowerCoSE%2Fgoose?ref=badge_large)
